@@ -1,0 +1,6 @@
+cir_type,variant,formula,fit_points,params,n_circuits,mean_abs_err,median_abs_err,std_abs_err,p90_abs_err,p99_abs_err,max_abs_err,n_rejected_gt_1.2
+random,A,a*exp(c*x+b*x^2),5,3,3800,0.0242635,0.00483833,0.0836944,0.0474282,0.350559,1.22796,110
+random,B,a*exp(c*x+b*x^2)+d,5,4,3800,0.0213331,0.00433115,0.0767888,0.0383576,0.322688,1.18755,153
+random,C,a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94],5,5,3800,0.00875834,0.00321434,0.0244394,0.0188175,0.0829368,0.751109,6
+random,D,(a+b*x)*exp(c*x)  [Eq.94 with c2=0],5,3,3800,0.012506,0.00431439,0.0366915,0.0274718,0.118918,1.07663,18
+random,E,a*exp(c*x+b*x^2)+d*exp(c*x)  [Eq.94 with e=0],5,4,3800,0.0177034,0.00616039,0.0451846,0.0418936,0.161421,1.0585,46

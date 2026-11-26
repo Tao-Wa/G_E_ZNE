@@ -1,0 +1,14 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+qreg q[4];
+rz(pi/2) q[0];
+sx q[0];
+rz(4.23014676876714) q[0];
+sx q[0];
+rz(5*pi/2) q[0];
+rz(-pi/2) q[1];
+x q[2];
+rz(-pi) q[3];
+sx q[3];
+rz(2.1495449718627073) q[3];
+sx q[3];

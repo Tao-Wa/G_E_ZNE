@@ -1,0 +1,40 @@
+# Conda environment for:
+#   "Hybrid Gaussian-exponential zero-noise extrapolation for periodic circuits"
+#
+#   conda env create -f environment.yml
+#   conda activate zne_qiskit
+#
+# See README_ENV.md for why each pin was chosen.
+#
+# NOTE: qiskit / qiskit-aer / qiskit-terra are installed through pip (not conda)
+# on purpose -- the exact pre-1.0 releases used here are not available on the
+# conda-forge default channel set, and pip gives byte-identical wheels to the
+# ones the code was written against.
+
+name: zne_qiskit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip=24.0
+  - pip:
+      # --- Quantum stack (behaviour-critical pins) ---
+      - qiskit==0.46.3
+      - qiskit-terra==0.46.3
+      - qiskit-aer==0.14.2
+      # --- Numerics / plotting ---
+      - numpy==1.26.4
+      - scipy==1.13.1
+      - matplotlib==3.9.4
+      - pandas==2.2.3
+      - networkx==3.2.1
+      - tqdm==4.67.1
+      # --- Qiskit visualisation extras ---
+      - pylatexenc==2.10
+      - seaborn==0.13.2
+      - graphviz==0.21
+      # --- Optional (only random_generator.py) ---
+      - torch==2.7.0
+  # Graphviz *binaries* (the `dot` executable) come from conda, not pip.
+  - graphviz

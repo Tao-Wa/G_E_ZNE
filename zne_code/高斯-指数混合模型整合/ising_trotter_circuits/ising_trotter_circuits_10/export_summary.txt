@@ -1,0 +1,1607 @@
+量子电路导出摘要
+==================================================
+
+总导出数量: 200
+
+电路详情:
+--------------------------------------------------------------------------------
+电路 0: circuit_0
+  原始路径: [0].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_0.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_0.qpy
+
+电路 1: circuit_1
+  原始路径: [1].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_1.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_1.qpy
+
+电路 2: circuit_2
+  原始路径: [2].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_2.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_2.qpy
+
+电路 3: circuit_3
+  原始路径: [3].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_3.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_3.qpy
+
+电路 4: circuit_4
+  原始路径: [4].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_4.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_4.qpy
+
+电路 5: circuit_5
+  原始路径: [5].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_5.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_5.qpy
+
+电路 6: circuit_6
+  原始路径: [6].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_6.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_6.qpy
+
+电路 7: circuit_7
+  原始路径: [7].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_7.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_7.qpy
+
+电路 8: circuit_8
+  原始路径: [8].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_8.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_8.qpy
+
+电路 9: circuit_9
+  原始路径: [9].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_9.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_9.qpy
+
+电路 10: circuit_10
+  原始路径: [10].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_10.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_10.qpy
+
+电路 11: circuit_11
+  原始路径: [11].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_11.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_11.qpy
+
+电路 12: circuit_12
+  原始路径: [12].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_12.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_12.qpy
+
+电路 13: circuit_13
+  原始路径: [13].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 129
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('sdg', 4), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_13.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_13.qpy
+
+电路 14: circuit_14
+  原始路径: [14].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_14.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_14.qpy
+
+电路 15: circuit_15
+  原始路径: [15].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_15.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_15.qpy
+
+电路 16: circuit_16
+  原始路径: [16].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_16.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_16.qpy
+
+电路 17: circuit_17
+  原始路径: [17].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_17.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_17.qpy
+
+电路 18: circuit_18
+  原始路径: [18].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_18.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_18.qpy
+
+电路 19: circuit_19
+  原始路径: [19].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_19.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_19.qpy
+
+电路 20: circuit_20
+  原始路径: [20].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_20.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_20.qpy
+
+电路 21: circuit_21
+  原始路径: [21].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_21.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_21.qpy
+
+电路 22: circuit_22
+  原始路径: [22].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_22.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_22.qpy
+
+电路 23: circuit_23
+  原始路径: [23].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_23.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_23.qpy
+
+电路 24: circuit_24
+  原始路径: [24].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_24.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_24.qpy
+
+电路 25: circuit_25
+  原始路径: [25].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_25.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_25.qpy
+
+电路 26: circuit_26
+  原始路径: [26].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_26.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_26.qpy
+
+电路 27: circuit_27
+  原始路径: [27].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_27.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_27.qpy
+
+电路 28: circuit_28
+  原始路径: [28].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_28.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_28.qpy
+
+电路 29: circuit_29
+  原始路径: [29].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_29.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_29.qpy
+
+电路 30: circuit_30
+  原始路径: [30].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_30.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_30.qpy
+
+电路 31: circuit_31
+  原始路径: [31].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_31.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_31.qpy
+
+电路 32: circuit_32
+  原始路径: [32].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_32.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_32.qpy
+
+电路 33: circuit_33
+  原始路径: [33].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_33.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_33.qpy
+
+电路 34: circuit_34
+  原始路径: [34].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_34.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_34.qpy
+
+电路 35: circuit_35
+  原始路径: [35].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_35.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_35.qpy
+
+电路 36: circuit_36
+  原始路径: [36].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_36.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_36.qpy
+
+电路 37: circuit_37
+  原始路径: [37].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_37.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_37.qpy
+
+电路 38: circuit_38
+  原始路径: [38].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_38.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_38.qpy
+
+电路 39: circuit_39
+  原始路径: [39].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_39.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_39.qpy
+
+电路 40: circuit_40
+  原始路径: [40].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_40.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_40.qpy
+
+电路 41: circuit_41
+  原始路径: [41].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 64, 操作数: 121
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_41.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_41.qpy
+
+电路 42: circuit_42
+  原始路径: [42].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_42.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_42.qpy
+
+电路 43: circuit_43
+  原始路径: [43].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_43.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_43.qpy
+
+电路 44: circuit_44
+  原始路径: [44].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_44.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_44.qpy
+
+电路 45: circuit_45
+  原始路径: [45].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_45.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_45.qpy
+
+电路 46: circuit_46
+  原始路径: [46].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_46.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_46.qpy
+
+电路 47: circuit_47
+  原始路径: [47].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_47.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_47.qpy
+
+电路 48: circuit_48
+  原始路径: [48].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_48.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_48.qpy
+
+电路 49: circuit_49
+  原始路径: [49].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_49.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_49.qpy
+
+电路 50: circuit_50
+  原始路径: [50].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_50.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_50.qpy
+
+电路 51: circuit_51
+  原始路径: [51].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_51.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_51.qpy
+
+电路 52: circuit_52
+  原始路径: [52].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_52.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_52.qpy
+
+电路 53: circuit_53
+  原始路径: [53].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_53.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_53.qpy
+
+电路 54: circuit_54
+  原始路径: [54].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 129
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('sdg', 4), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_54.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_54.qpy
+
+电路 55: circuit_55
+  原始路径: [55].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_55.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_55.qpy
+
+电路 56: circuit_56
+  原始路径: [56].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_56.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_56.qpy
+
+电路 57: circuit_57
+  原始路径: [57].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_57.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_57.qpy
+
+电路 58: circuit_58
+  原始路径: [58].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_58.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_58.qpy
+
+电路 59: circuit_59
+  原始路径: [59].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_59.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_59.qpy
+
+电路 60: circuit_60
+  原始路径: [60].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_60.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_60.qpy
+
+电路 61: circuit_61
+  原始路径: [61].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_61.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_61.qpy
+
+电路 62: circuit_62
+  原始路径: [62].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_62.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_62.qpy
+
+电路 63: circuit_63
+  原始路径: [63].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_63.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_63.qpy
+
+电路 64: circuit_64
+  原始路径: [64].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_64.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_64.qpy
+
+电路 65: circuit_65
+  原始路径: [65].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_65.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_65.qpy
+
+电路 66: circuit_66
+  原始路径: [66].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_66.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_66.qpy
+
+电路 67: circuit_67
+  原始路径: [67].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_67.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_67.qpy
+
+电路 68: circuit_68
+  原始路径: [68].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_68.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_68.qpy
+
+电路 69: circuit_69
+  原始路径: [69].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_69.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_69.qpy
+
+电路 70: circuit_70
+  原始路径: [70].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_70.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_70.qpy
+
+电路 71: circuit_71
+  原始路径: [71].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_71.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_71.qpy
+
+电路 72: circuit_72
+  原始路径: [72].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_72.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_72.qpy
+
+电路 73: circuit_73
+  原始路径: [73].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_73.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_73.qpy
+
+电路 74: circuit_74
+  原始路径: [74].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_74.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_74.qpy
+
+电路 75: circuit_75
+  原始路径: [75].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_75.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_75.qpy
+
+电路 76: circuit_76
+  原始路径: [76].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_76.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_76.qpy
+
+电路 77: circuit_77
+  原始路径: [77].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_77.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_77.qpy
+
+电路 78: circuit_78
+  原始路径: [78].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_78.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_78.qpy
+
+电路 79: circuit_79
+  原始路径: [79].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_79.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_79.qpy
+
+电路 80: circuit_80
+  原始路径: [80].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_80.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_80.qpy
+
+电路 81: circuit_81
+  原始路径: [81].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_81.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_81.qpy
+
+电路 82: circuit_82
+  原始路径: [82].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_82.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_82.qpy
+
+电路 83: circuit_83
+  原始路径: [83].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_83.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_83.qpy
+
+电路 84: circuit_84
+  原始路径: [84].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_84.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_84.qpy
+
+电路 85: circuit_85
+  原始路径: [85].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_85.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_85.qpy
+
+电路 86: circuit_86
+  原始路径: [86].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_86.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_86.qpy
+
+电路 87: circuit_87
+  原始路径: [87].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_87.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_87.qpy
+
+电路 88: circuit_88
+  原始路径: [88].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_88.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_88.qpy
+
+电路 89: circuit_89
+  原始路径: [89].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_89.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_89.qpy
+
+电路 90: circuit_90
+  原始路径: [90].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_90.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_90.qpy
+
+电路 91: circuit_91
+  原始路径: [91].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_91.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_91.qpy
+
+电路 92: circuit_92
+  原始路径: [92].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_92.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_92.qpy
+
+电路 93: circuit_93
+  原始路径: [93].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_93.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_93.qpy
+
+电路 94: circuit_94
+  原始路径: [94].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_94.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_94.qpy
+
+电路 95: circuit_95
+  原始路径: [95].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_95.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_95.qpy
+
+电路 96: circuit_96
+  原始路径: [96].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_96.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_96.qpy
+
+电路 97: circuit_97
+  原始路径: [97].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_97.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_97.qpy
+
+电路 98: circuit_98
+  原始路径: [98].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_98.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_98.qpy
+
+电路 99: circuit_99
+  原始路径: [99].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_99.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_99.qpy
+
+电路 100: circuit_100
+  原始路径: [100].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_100.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_100.qpy
+
+电路 101: circuit_101
+  原始路径: [101].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_101.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_101.qpy
+
+电路 102: circuit_102
+  原始路径: [102].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_102.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_102.qpy
+
+电路 103: circuit_103
+  原始路径: [103].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_103.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_103.qpy
+
+电路 104: circuit_104
+  原始路径: [104].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_104.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_104.qpy
+
+电路 105: circuit_105
+  原始路径: [105].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_105.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_105.qpy
+
+电路 106: circuit_106
+  原始路径: [106].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_106.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_106.qpy
+
+电路 107: circuit_107
+  原始路径: [107].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_107.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_107.qpy
+
+电路 108: circuit_108
+  原始路径: [108].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_108.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_108.qpy
+
+电路 109: circuit_109
+  原始路径: [109].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_109.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_109.qpy
+
+电路 110: circuit_110
+  原始路径: [110].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_110.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_110.qpy
+
+电路 111: circuit_111
+  原始路径: [111].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_111.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_111.qpy
+
+电路 112: circuit_112
+  原始路径: [112].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_112.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_112.qpy
+
+电路 113: circuit_113
+  原始路径: [113].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_113.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_113.qpy
+
+电路 114: circuit_114
+  原始路径: [114].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_114.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_114.qpy
+
+电路 115: circuit_115
+  原始路径: [115].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_115.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_115.qpy
+
+电路 116: circuit_116
+  原始路径: [116].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_116.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_116.qpy
+
+电路 117: circuit_117
+  原始路径: [117].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_117.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_117.qpy
+
+电路 118: circuit_118
+  原始路径: [118].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_118.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_118.qpy
+
+电路 119: circuit_119
+  原始路径: [119].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_119.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_119.qpy
+
+电路 120: circuit_120
+  原始路径: [120].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_120.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_120.qpy
+
+电路 121: circuit_121
+  原始路径: [121].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_121.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_121.qpy
+
+电路 122: circuit_122
+  原始路径: [122].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_122.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_122.qpy
+
+电路 123: circuit_123
+  原始路径: [123].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_123.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_123.qpy
+
+电路 124: circuit_124
+  原始路径: [124].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_124.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_124.qpy
+
+电路 125: circuit_125
+  原始路径: [125].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_125.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_125.qpy
+
+电路 126: circuit_126
+  原始路径: [126].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_126.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_126.qpy
+
+电路 127: circuit_127
+  原始路径: [127].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_127.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_127.qpy
+
+电路 128: circuit_128
+  原始路径: [128].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_128.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_128.qpy
+
+电路 129: circuit_129
+  原始路径: [129].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_129.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_129.qpy
+
+电路 130: circuit_130
+  原始路径: [130].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_130.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_130.qpy
+
+电路 131: circuit_131
+  原始路径: [131].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_131.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_131.qpy
+
+电路 132: circuit_132
+  原始路径: [132].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_132.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_132.qpy
+
+电路 133: circuit_133
+  原始路径: [133].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_133.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_133.qpy
+
+电路 134: circuit_134
+  原始路径: [134].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_134.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_134.qpy
+
+电路 135: circuit_135
+  原始路径: [135].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_135.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_135.qpy
+
+电路 136: circuit_136
+  原始路径: [136].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_136.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_136.qpy
+
+电路 137: circuit_137
+  原始路径: [137].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_137.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_137.qpy
+
+电路 138: circuit_138
+  原始路径: [138].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_138.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_138.qpy
+
+电路 139: circuit_139
+  原始路径: [139].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_139.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_139.qpy
+
+电路 140: circuit_140
+  原始路径: [140].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_140.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_140.qpy
+
+电路 141: circuit_141
+  原始路径: [141].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_141.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_141.qpy
+
+电路 142: circuit_142
+  原始路径: [142].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_142.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_142.qpy
+
+电路 143: circuit_143
+  原始路径: [143].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_143.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_143.qpy
+
+电路 144: circuit_144
+  原始路径: [144].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_144.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_144.qpy
+
+电路 145: circuit_145
+  原始路径: [145].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_145.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_145.qpy
+
+电路 146: circuit_146
+  原始路径: [146].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_146.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_146.qpy
+
+电路 147: circuit_147
+  原始路径: [147].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_147.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_147.qpy
+
+电路 148: circuit_148
+  原始路径: [148].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_148.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_148.qpy
+
+电路 149: circuit_149
+  原始路径: [149].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_149.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_149.qpy
+
+电路 150: circuit_150
+  原始路径: [150].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_150.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_150.qpy
+
+电路 151: circuit_151
+  原始路径: [151].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_151.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_151.qpy
+
+电路 152: circuit_152
+  原始路径: [152].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_152.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_152.qpy
+
+电路 153: circuit_153
+  原始路径: [153].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_153.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_153.qpy
+
+电路 154: circuit_154
+  原始路径: [154].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_154.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_154.qpy
+
+电路 155: circuit_155
+  原始路径: [155].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 123
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 1), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_155.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_155.qpy
+
+电路 156: circuit_156
+  原始路径: [156].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_156.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_156.qpy
+
+电路 157: circuit_157
+  原始路径: [157].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_157.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_157.qpy
+
+电路 158: circuit_158
+  原始路径: [158].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_158.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_158.qpy
+
+电路 159: circuit_159
+  原始路径: [159].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_159.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_159.qpy
+
+电路 160: circuit_160
+  原始路径: [160].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_160.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_160.qpy
+
+电路 161: circuit_161
+  原始路径: [161].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_161.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_161.qpy
+
+电路 162: circuit_162
+  原始路径: [162].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_162.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_162.qpy
+
+电路 163: circuit_163
+  原始路径: [163].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_163.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_163.qpy
+
+电路 164: circuit_164
+  原始路径: [164].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_164.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_164.qpy
+
+电路 165: circuit_165
+  原始路径: [165].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_165.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_165.qpy
+
+电路 166: circuit_166
+  原始路径: [166].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_166.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_166.qpy
+
+电路 167: circuit_167
+  原始路径: [167].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_167.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_167.qpy
+
+电路 168: circuit_168
+  原始路径: [168].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 64, 操作数: 121
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_168.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_168.qpy
+
+电路 169: circuit_169
+  原始路径: [169].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_169.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_169.qpy
+
+电路 170: circuit_170
+  原始路径: [170].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_170.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_170.qpy
+
+电路 171: circuit_171
+  原始路径: [171].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_171.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_171.qpy
+
+电路 172: circuit_172
+  原始路径: [172].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_172.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_172.qpy
+
+电路 173: circuit_173
+  原始路径: [173].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_173.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_173.qpy
+
+电路 174: circuit_174
+  原始路径: [174].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_174.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_174.qpy
+
+电路 175: circuit_175
+  原始路径: [175].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_175.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_175.qpy
+
+电路 176: circuit_176
+  原始路径: [176].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_176.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_176.qpy
+
+电路 177: circuit_177
+  原始路径: [177].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_177.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_177.qpy
+
+电路 178: circuit_178
+  原始路径: [178].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_178.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_178.qpy
+
+电路 179: circuit_179
+  原始路径: [179].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_179.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_179.qpy
+
+电路 180: circuit_180
+  原始路径: [180].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_180.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_180.qpy
+
+电路 181: circuit_181
+  原始路径: [181].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_181.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_181.qpy
+
+电路 182: circuit_182
+  原始路径: [182].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_182.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_182.qpy
+
+电路 183: circuit_183
+  原始路径: [183].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 126
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_183.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_183.qpy
+
+电路 184: circuit_184
+  原始路径: [184].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_184.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_184.qpy
+
+电路 185: circuit_185
+  原始路径: [185].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_185.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_185.qpy
+
+电路 186: circuit_186
+  原始路径: [186].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_186.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_186.qpy
+
+电路 187: circuit_187
+  原始路径: [187].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_187.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_187.qpy
+
+电路 188: circuit_188
+  原始路径: [188].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_188.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_188.qpy
+
+电路 189: circuit_189
+  原始路径: [189].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_189.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_189.qpy
+
+电路 190: circuit_190
+  原始路径: [190].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_190.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_190.qpy
+
+电路 191: circuit_191
+  原始路径: [191].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 2), ('h', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_191.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_191.qpy
+
+电路 192: circuit_192
+  原始路径: [192].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_192.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_192.qpy
+
+电路 193: circuit_193
+  原始路径: [193].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_193.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_193.qpy
+
+电路 194: circuit_194
+  原始路径: [194].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_194.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_194.qpy
+
+电路 195: circuit_195
+  原始路径: [195].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 125
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 3), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_195.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_195.qpy
+
+电路 196: circuit_196
+  原始路径: [196].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('sdg', 3), ('h', 3)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_196.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_196.qpy
+
+电路 197: circuit_197
+  原始路径: [197].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 127
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('h', 4), ('measure', 4), ('sdg', 2)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_197.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_197.qpy
+
+电路 198: circuit_198
+  原始路径: [198].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 66, 操作数: 124
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 2), ('sdg', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_198.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_198.qpy
+
+电路 199: circuit_199
+  原始路径: [199].circuit
+  量子比特: 4, 经典比特: 4
+  深度: 65, 操作数: 122
+  操作统计: OrderedDict([('cx', 54), ('rx', 36), ('barrier', 29), ('rz', 27), ('measure', 4), ('h', 1)])
+  文件: ising_trotter_circuits\ising_trotter_circuits_10\circuit_199.qasm
+        ising_trotter_circuits\ising_trotter_circuits_10\circuit_199.qpy
+

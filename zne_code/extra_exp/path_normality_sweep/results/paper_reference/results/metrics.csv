@@ -1,0 +1,2 @@
+depth_m,n_requested,n_batches,n_samples,n_distinct_paths,saturated,r,ks_weighted,mu,sigma,ess,ess_fit,sigma2_over_m,k_min,k_max,t_sampler_s,t_sim_s
+18,100000,0,100000,99992,0,0.9908856428,0.07883993066,-0.4815348714,0.02329181274,51.54390014,51.54390014,3.013936337e-05,20,91,8.721,976.664

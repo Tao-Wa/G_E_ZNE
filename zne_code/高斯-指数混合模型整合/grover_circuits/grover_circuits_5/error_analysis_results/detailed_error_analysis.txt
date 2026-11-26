@@ -1,0 +1,7 @@
+Detailed Error Analysis for Quantum Circuits
+======================================================================
+Number of circuits: 1
+
+Per-Circuit Absolute Errors:
+Circuit	Noisy	Poly_exp	Exp	Fidelity	Purity_sqrt	Loocv
+1	0.027709	0.130704	0.130705	0.791542	0.404531	0.130704

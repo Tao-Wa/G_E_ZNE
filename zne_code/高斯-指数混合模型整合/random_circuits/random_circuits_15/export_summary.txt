@@ -1,0 +1,1607 @@
+量子电路导出摘要
+==================================================
+
+总导出数量: 200
+
+电路详情:
+--------------------------------------------------------------------------------
+电路 0: circuit_0
+  原始路径: circuit.circuit_0
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 188
+  操作统计: OrderedDict([('rz', 94), ('sx', 57), ('cx', 36), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_0.qasm
+        random_circuits\random_circuits_15\circuit_0.qpy
+
+电路 1: circuit_1
+  原始路径: circuit.circuit_1
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 195
+  操作统计: OrderedDict([('rz', 99), ('sx', 50), ('cx', 42), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_1.qasm
+        random_circuits\random_circuits_15\circuit_1.qpy
+
+电路 2: circuit_2
+  原始路径: circuit.circuit_2
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 178
+  操作统计: OrderedDict([('rz', 91), ('sx', 48), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_2.qasm
+        random_circuits\random_circuits_15\circuit_2.qpy
+
+电路 3: circuit_3
+  原始路径: circuit.circuit_3
+  量子比特: 4, 经典比特: 0
+  深度: 112, 操作数: 232
+  操作统计: OrderedDict([('rz', 117), ('sx', 71), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_3.qasm
+        random_circuits\random_circuits_15\circuit_3.qpy
+
+电路 4: circuit_4
+  原始路径: circuit.circuit_4
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 182
+  操作统计: OrderedDict([('rz', 92), ('sx', 47), ('cx', 40), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_4.qasm
+        random_circuits\random_circuits_15\circuit_4.qpy
+
+电路 5: circuit_5
+  原始路径: circuit.circuit_5
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 209
+  操作统计: OrderedDict([('rz', 104), ('sx', 56), ('cx', 44), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_5.qasm
+        random_circuits\random_circuits_15\circuit_5.qpy
+
+电路 6: circuit_6
+  原始路径: circuit.circuit_6
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 204
+  操作统计: OrderedDict([('rz', 99), ('sx', 58), ('cx', 43), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_6.qasm
+        random_circuits\random_circuits_15\circuit_6.qpy
+
+电路 7: circuit_7
+  原始路径: circuit.circuit_7
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 147
+  操作统计: OrderedDict([('rz', 74), ('sx', 37), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_7.qasm
+        random_circuits\random_circuits_15\circuit_7.qpy
+
+电路 8: circuit_8
+  原始路径: circuit.circuit_8
+  量子比特: 4, 经典比特: 0
+  深度: 95, 操作数: 182
+  操作统计: OrderedDict([('rz', 91), ('sx', 47), ('cx', 40), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_8.qasm
+        random_circuits\random_circuits_15\circuit_8.qpy
+
+电路 9: circuit_9
+  原始路径: circuit.circuit_9
+  量子比特: 4, 经典比特: 0
+  深度: 99, 操作数: 201
+  操作统计: OrderedDict([('rz', 103), ('sx', 55), ('cx', 39), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_9.qasm
+        random_circuits\random_circuits_15\circuit_9.qpy
+
+电路 10: circuit_10
+  原始路径: circuit.circuit_10
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 189
+  操作统计: OrderedDict([('rz', 97), ('sx', 54), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_10.qasm
+        random_circuits\random_circuits_15\circuit_10.qpy
+
+电路 11: circuit_11
+  原始路径: circuit.circuit_11
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 166
+  操作统计: OrderedDict([('rz', 86), ('sx', 44), ('cx', 36)])
+  文件: random_circuits\random_circuits_15\circuit_11.qasm
+        random_circuits\random_circuits_15\circuit_11.qpy
+
+电路 12: circuit_12
+  原始路径: circuit.circuit_12
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 202
+  操作统计: OrderedDict([('rz', 100), ('sx', 57), ('cx', 44), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_12.qasm
+        random_circuits\random_circuits_15\circuit_12.qpy
+
+电路 13: circuit_13
+  原始路径: circuit.circuit_13
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 140
+  操作统计: OrderedDict([('rz', 68), ('sx', 36), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_13.qasm
+        random_circuits\random_circuits_15\circuit_13.qpy
+
+电路 14: circuit_14
+  原始路径: circuit.circuit_14
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 193
+  操作统计: OrderedDict([('rz', 98), ('sx', 48), ('cx', 46), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_14.qasm
+        random_circuits\random_circuits_15\circuit_14.qpy
+
+电路 15: circuit_15
+  原始路径: circuit.circuit_15
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 182
+  操作统计: OrderedDict([('rz', 92), ('sx', 48), ('cx', 41), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_15.qasm
+        random_circuits\random_circuits_15\circuit_15.qpy
+
+电路 16: circuit_16
+  原始路径: circuit.circuit_16
+  量子比特: 4, 经典比特: 0
+  深度: 74, 操作数: 160
+  操作统计: OrderedDict([('rz', 77), ('cx', 42), ('sx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_16.qasm
+        random_circuits\random_circuits_15\circuit_16.qpy
+
+电路 17: circuit_17
+  原始路径: circuit.circuit_17
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 196
+  操作统计: OrderedDict([('rz', 103), ('sx', 51), ('cx', 41), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_17.qasm
+        random_circuits\random_circuits_15\circuit_17.qpy
+
+电路 18: circuit_18
+  原始路径: circuit.circuit_18
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 173
+  操作统计: OrderedDict([('rz', 89), ('sx', 45), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_18.qasm
+        random_circuits\random_circuits_15\circuit_18.qpy
+
+电路 19: circuit_19
+  原始路径: circuit.circuit_19
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 200
+  操作统计: OrderedDict([('rz', 99), ('sx', 52), ('cx', 44), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_19.qasm
+        random_circuits\random_circuits_15\circuit_19.qpy
+
+电路 20: circuit_20
+  原始路径: circuit.circuit_20
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 176
+  操作统计: OrderedDict([('rz', 91), ('sx', 43), ('cx', 40), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_20.qasm
+        random_circuits\random_circuits_15\circuit_20.qpy
+
+电路 21: circuit_21
+  原始路径: circuit.circuit_21
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 172
+  操作统计: OrderedDict([('rz', 84), ('sx', 47), ('cx', 40), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_21.qasm
+        random_circuits\random_circuits_15\circuit_21.qpy
+
+电路 22: circuit_22
+  原始路径: circuit.circuit_22
+  量子比特: 4, 经典比特: 0
+  深度: 73, 操作数: 156
+  操作统计: OrderedDict([('rz', 78), ('cx', 39), ('sx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_22.qasm
+        random_circuits\random_circuits_15\circuit_22.qpy
+
+电路 23: circuit_23
+  原始路径: circuit.circuit_23
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 173
+  操作统计: OrderedDict([('rz', 90), ('sx', 44), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_23.qasm
+        random_circuits\random_circuits_15\circuit_23.qpy
+
+电路 24: circuit_24
+  原始路径: circuit.circuit_24
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 180
+  操作统计: OrderedDict([('rz', 91), ('sx', 45), ('cx', 41), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_24.qasm
+        random_circuits\random_circuits_15\circuit_24.qpy
+
+电路 25: circuit_25
+  原始路径: circuit.circuit_25
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 155
+  操作统计: OrderedDict([('rz', 79), ('cx', 37), ('sx', 36), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_25.qasm
+        random_circuits\random_circuits_15\circuit_25.qpy
+
+电路 26: circuit_26
+  原始路径: circuit.circuit_26
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 170
+  操作统计: OrderedDict([('rz', 82), ('sx', 45), ('cx', 42), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_26.qasm
+        random_circuits\random_circuits_15\circuit_26.qpy
+
+电路 27: circuit_27
+  原始路径: circuit.circuit_27
+  量子比特: 4, 经典比特: 0
+  深度: 71, 操作数: 151
+  操作统计: OrderedDict([('rz', 71), ('cx', 39), ('sx', 38), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_27.qasm
+        random_circuits\random_circuits_15\circuit_27.qpy
+
+电路 28: circuit_28
+  原始路径: circuit.circuit_28
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 181
+  操作统计: OrderedDict([('rz', 89), ('sx', 54), ('cx', 35), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_28.qasm
+        random_circuits\random_circuits_15\circuit_28.qpy
+
+电路 29: circuit_29
+  原始路径: circuit.circuit_29
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 141
+  操作统计: OrderedDict([('rz', 67), ('sx', 39), ('cx', 33), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_29.qasm
+        random_circuits\random_circuits_15\circuit_29.qpy
+
+电路 30: circuit_30
+  原始路径: circuit.circuit_30
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 169
+  操作统计: OrderedDict([('rz', 83), ('sx', 49), ('cx', 35), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_30.qasm
+        random_circuits\random_circuits_15\circuit_30.qpy
+
+电路 31: circuit_31
+  原始路径: circuit.circuit_31
+  量子比特: 4, 经典比特: 0
+  深度: 84, 操作数: 173
+  操作统计: OrderedDict([('rz', 90), ('sx', 44), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_31.qasm
+        random_circuits\random_circuits_15\circuit_31.qpy
+
+电路 32: circuit_32
+  原始路径: circuit.circuit_32
+  量子比特: 4, 经典比特: 0
+  深度: 106, 操作数: 215
+  操作统计: OrderedDict([('rz', 105), ('sx', 65), ('cx', 42), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_32.qasm
+        random_circuits\random_circuits_15\circuit_32.qpy
+
+电路 33: circuit_33
+  原始路径: circuit.circuit_33
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 152
+  操作统计: OrderedDict([('rz', 75), ('cx', 37), ('sx', 36), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_33.qasm
+        random_circuits\random_circuits_15\circuit_33.qpy
+
+电路 34: circuit_34
+  原始路径: circuit.circuit_34
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 203
+  操作统计: OrderedDict([('rz', 108), ('sx', 55), ('cx', 40)])
+  文件: random_circuits\random_circuits_15\circuit_34.qasm
+        random_circuits\random_circuits_15\circuit_34.qpy
+
+电路 35: circuit_35
+  原始路径: circuit.circuit_35
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 167
+  操作统计: OrderedDict([('rz', 87), ('sx', 41), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_35.qasm
+        random_circuits\random_circuits_15\circuit_35.qpy
+
+电路 36: circuit_36
+  原始路径: circuit.circuit_36
+  量子比特: 4, 经典比特: 0
+  深度: 98, 操作数: 167
+  操作统计: OrderedDict([('rz', 87), ('sx', 47), ('cx', 32), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_36.qasm
+        random_circuits\random_circuits_15\circuit_36.qpy
+
+电路 37: circuit_37
+  原始路径: circuit.circuit_37
+  量子比特: 4, 经典比特: 0
+  深度: 94, 操作数: 192
+  操作统计: OrderedDict([('rz', 94), ('sx', 54), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_37.qasm
+        random_circuits\random_circuits_15\circuit_37.qpy
+
+电路 38: circuit_38
+  原始路径: circuit.circuit_38
+  量子比特: 4, 经典比特: 0
+  深度: 76, 操作数: 181
+  操作统计: OrderedDict([('rz', 88), ('sx', 55), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_38.qasm
+        random_circuits\random_circuits_15\circuit_38.qpy
+
+电路 39: circuit_39
+  原始路径: circuit.circuit_39
+  量子比特: 4, 经典比特: 0
+  深度: 71, 操作数: 144
+  操作统计: OrderedDict([('rz', 75), ('cx', 35), ('sx', 33), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_39.qasm
+        random_circuits\random_circuits_15\circuit_39.qpy
+
+电路 40: circuit_40
+  原始路径: circuit.circuit_40
+  量子比特: 4, 经典比特: 0
+  深度: 74, 操作数: 147
+  操作统计: OrderedDict([('rz', 74), ('cx', 36), ('sx', 35), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_40.qasm
+        random_circuits\random_circuits_15\circuit_40.qpy
+
+电路 41: circuit_41
+  原始路径: circuit.circuit_41
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 176
+  操作统计: OrderedDict([('rz', 88), ('sx', 46), ('cx', 40), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_41.qasm
+        random_circuits\random_circuits_15\circuit_41.qpy
+
+电路 42: circuit_42
+  原始路径: circuit.circuit_42
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 168
+  操作统计: OrderedDict([('rz', 83), ('sx', 45), ('cx', 38), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_42.qasm
+        random_circuits\random_circuits_15\circuit_42.qpy
+
+电路 43: circuit_43
+  原始路径: circuit.circuit_43
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 187
+  操作统计: OrderedDict([('rz', 94), ('sx', 48), ('cx', 43), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_43.qasm
+        random_circuits\random_circuits_15\circuit_43.qpy
+
+电路 44: circuit_44
+  原始路径: circuit.circuit_44
+  量子比特: 4, 经典比特: 0
+  深度: 76, 操作数: 157
+  操作统计: OrderedDict([('rz', 79), ('sx', 41), ('cx', 36), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_44.qasm
+        random_circuits\random_circuits_15\circuit_44.qpy
+
+电路 45: circuit_45
+  原始路径: circuit.circuit_45
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 170
+  操作统计: OrderedDict([('rz', 85), ('sx', 49), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_45.qasm
+        random_circuits\random_circuits_15\circuit_45.qpy
+
+电路 46: circuit_46
+  原始路径: circuit.circuit_46
+  量子比特: 4, 经典比特: 0
+  深度: 100, 操作数: 178
+  操作统计: OrderedDict([('rz', 90), ('sx', 52), ('cx', 34), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_46.qasm
+        random_circuits\random_circuits_15\circuit_46.qpy
+
+电路 47: circuit_47
+  原始路径: circuit.circuit_47
+  量子比特: 4, 经典比特: 0
+  深度: 69, 操作数: 136
+  操作统计: OrderedDict([('rz', 71), ('cx', 33), ('sx', 31), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_47.qasm
+        random_circuits\random_circuits_15\circuit_47.qpy
+
+电路 48: circuit_48
+  原始路径: circuit.circuit_48
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 192
+  操作统计: OrderedDict([('rz', 100), ('sx', 53), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_48.qasm
+        random_circuits\random_circuits_15\circuit_48.qpy
+
+电路 49: circuit_49
+  原始路径: circuit.circuit_49
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 154
+  操作统计: OrderedDict([('rz', 74), ('cx', 39), ('sx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_49.qasm
+        random_circuits\random_circuits_15\circuit_49.qpy
+
+电路 50: circuit_50
+  原始路径: circuit.circuit_50
+  量子比特: 4, 经典比特: 0
+  深度: 102, 操作数: 182
+  操作统计: OrderedDict([('rz', 88), ('sx', 56), ('cx', 35), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_50.qasm
+        random_circuits\random_circuits_15\circuit_50.qpy
+
+电路 51: circuit_51
+  原始路径: circuit.circuit_51
+  量子比特: 4, 经典比特: 0
+  深度: 78, 操作数: 147
+  操作统计: OrderedDict([('rz', 70), ('cx', 39), ('sx', 36), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_51.qasm
+        random_circuits\random_circuits_15\circuit_51.qpy
+
+电路 52: circuit_52
+  原始路径: circuit.circuit_52
+  量子比特: 4, 经典比特: 0
+  深度: 78, 操作数: 153
+  操作统计: OrderedDict([('rz', 74), ('cx', 40), ('sx', 35), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_52.qasm
+        random_circuits\random_circuits_15\circuit_52.qpy
+
+电路 53: circuit_53
+  原始路径: circuit.circuit_53
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 191
+  操作统计: OrderedDict([('rz', 94), ('sx', 56), ('cx', 37), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_53.qasm
+        random_circuits\random_circuits_15\circuit_53.qpy
+
+电路 54: circuit_54
+  原始路径: circuit.circuit_54
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 171
+  操作统计: OrderedDict([('rz', 86), ('sx', 44), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_54.qasm
+        random_circuits\random_circuits_15\circuit_54.qpy
+
+电路 55: circuit_55
+  原始路径: circuit.circuit_55
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 138
+  操作统计: OrderedDict([('rz', 69), ('cx', 36), ('sx', 32), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_55.qasm
+        random_circuits\random_circuits_15\circuit_55.qpy
+
+电路 56: circuit_56
+  原始路径: circuit.circuit_56
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 157
+  操作统计: OrderedDict([('rz', 79), ('sx', 39), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_56.qasm
+        random_circuits\random_circuits_15\circuit_56.qpy
+
+电路 57: circuit_57
+  原始路径: circuit.circuit_57
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 175
+  操作统计: OrderedDict([('rz', 86), ('sx', 45), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_57.qasm
+        random_circuits\random_circuits_15\circuit_57.qpy
+
+电路 58: circuit_58
+  原始路径: circuit.circuit_58
+  量子比特: 4, 经典比特: 0
+  深度: 77, 操作数: 149
+  操作统计: OrderedDict([('rz', 73), ('sx', 39), ('cx', 37)])
+  文件: random_circuits\random_circuits_15\circuit_58.qasm
+        random_circuits\random_circuits_15\circuit_58.qpy
+
+电路 59: circuit_59
+  原始路径: circuit.circuit_59
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 180
+  操作统计: OrderedDict([('rz', 90), ('sx', 46), ('cx', 42), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_59.qasm
+        random_circuits\random_circuits_15\circuit_59.qpy
+
+电路 60: circuit_60
+  原始路径: circuit.circuit_60
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 160
+  操作统计: OrderedDict([('rz', 80), ('sx', 40), ('cx', 36), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_60.qasm
+        random_circuits\random_circuits_15\circuit_60.qpy
+
+电路 61: circuit_61
+  原始路径: circuit.circuit_61
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 178
+  操作统计: OrderedDict([('rz', 90), ('cx', 45), ('sx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_61.qasm
+        random_circuits\random_circuits_15\circuit_61.qpy
+
+电路 62: circuit_62
+  原始路径: circuit.circuit_62
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 180
+  操作统计: OrderedDict([('rz', 92), ('sx', 49), ('cx', 36), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_62.qasm
+        random_circuits\random_circuits_15\circuit_62.qpy
+
+电路 63: circuit_63
+  原始路径: circuit.circuit_63
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 171
+  操作统计: OrderedDict([('rz', 82), ('sx', 46), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_63.qasm
+        random_circuits\random_circuits_15\circuit_63.qpy
+
+电路 64: circuit_64
+  原始路径: circuit.circuit_64
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 167
+  操作统计: OrderedDict([('rz', 83), ('sx', 45), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_64.qasm
+        random_circuits\random_circuits_15\circuit_64.qpy
+
+电路 65: circuit_65
+  原始路径: circuit.circuit_65
+  量子比特: 4, 经典比特: 0
+  深度: 80, 操作数: 178
+  操作统计: OrderedDict([('rz', 86), ('sx', 49), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_65.qasm
+        random_circuits\random_circuits_15\circuit_65.qpy
+
+电路 66: circuit_66
+  原始路径: circuit.circuit_66
+  量子比特: 4, 经典比特: 0
+  深度: 74, 操作数: 145
+  操作统计: OrderedDict([('rz', 70), ('cx', 38), ('sx', 37)])
+  文件: random_circuits\random_circuits_15\circuit_66.qasm
+        random_circuits\random_circuits_15\circuit_66.qpy
+
+电路 67: circuit_67
+  原始路径: circuit.circuit_67
+  量子比特: 4, 经典比特: 0
+  深度: 99, 操作数: 180
+  操作统计: OrderedDict([('rz', 89), ('sx', 52), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_67.qasm
+        random_circuits\random_circuits_15\circuit_67.qpy
+
+电路 68: circuit_68
+  原始路径: circuit.circuit_68
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 172
+  操作统计: OrderedDict([('rz', 85), ('sx', 48), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_68.qasm
+        random_circuits\random_circuits_15\circuit_68.qpy
+
+电路 69: circuit_69
+  原始路径: circuit.circuit_69
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 174
+  操作统计: OrderedDict([('rz', 86), ('sx', 48), ('cx', 39), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_69.qasm
+        random_circuits\random_circuits_15\circuit_69.qpy
+
+电路 70: circuit_70
+  原始路径: circuit.circuit_70
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 174
+  操作统计: OrderedDict([('rz', 88), ('sx', 51), ('cx', 34), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_70.qasm
+        random_circuits\random_circuits_15\circuit_70.qpy
+
+电路 71: circuit_71
+  原始路径: circuit.circuit_71
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 156
+  操作统计: OrderedDict([('rz', 82), ('sx', 40), ('cx', 33), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_71.qasm
+        random_circuits\random_circuits_15\circuit_71.qpy
+
+电路 72: circuit_72
+  原始路径: circuit.circuit_72
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 175
+  操作统计: OrderedDict([('rz', 85), ('sx', 45), ('cx', 42), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_72.qasm
+        random_circuits\random_circuits_15\circuit_72.qpy
+
+电路 73: circuit_73
+  原始路径: circuit.circuit_73
+  量子比特: 4, 经典比特: 0
+  深度: 66, 操作数: 128
+  操作统计: OrderedDict([('rz', 66), ('cx', 35), ('sx', 26), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_73.qasm
+        random_circuits\random_circuits_15\circuit_73.qpy
+
+电路 74: circuit_74
+  原始路径: circuit.circuit_74
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 160
+  操作统计: OrderedDict([('rz', 79), ('sx', 42), ('cx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_74.qasm
+        random_circuits\random_circuits_15\circuit_74.qpy
+
+电路 75: circuit_75
+  原始路径: circuit.circuit_75
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 182
+  操作统计: OrderedDict([('rz', 91), ('sx', 46), ('cx', 42), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_75.qasm
+        random_circuits\random_circuits_15\circuit_75.qpy
+
+电路 76: circuit_76
+  原始路径: circuit.circuit_76
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 182
+  操作统计: OrderedDict([('rz', 90), ('sx', 49), ('cx', 38), ('x', 4), ('id', 1)])
+  文件: random_circuits\random_circuits_15\circuit_76.qasm
+        random_circuits\random_circuits_15\circuit_76.qpy
+
+电路 77: circuit_77
+  原始路径: circuit.circuit_77
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 219
+  操作统计: OrderedDict([('rz', 111), ('sx', 58), ('cx', 47), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_77.qasm
+        random_circuits\random_circuits_15\circuit_77.qpy
+
+电路 78: circuit_78
+  原始路径: circuit.circuit_78
+  量子比特: 4, 经典比特: 0
+  深度: 97, 操作数: 193
+  操作统计: OrderedDict([('rz', 100), ('sx', 47), ('cx', 44), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_78.qasm
+        random_circuits\random_circuits_15\circuit_78.qpy
+
+电路 79: circuit_79
+  原始路径: circuit.circuit_79
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 175
+  操作统计: OrderedDict([('rz', 90), ('sx', 47), ('cx', 38)])
+  文件: random_circuits\random_circuits_15\circuit_79.qasm
+        random_circuits\random_circuits_15\circuit_79.qpy
+
+电路 80: circuit_80
+  原始路径: circuit.circuit_80
+  量子比特: 4, 经典比特: 0
+  深度: 94, 操作数: 202
+  操作统计: OrderedDict([('rz', 101), ('sx', 61), ('cx', 39), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_80.qasm
+        random_circuits\random_circuits_15\circuit_80.qpy
+
+电路 81: circuit_81
+  原始路径: circuit.circuit_81
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 144
+  操作统计: OrderedDict([('rz', 74), ('cx', 37), ('sx', 32), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_81.qasm
+        random_circuits\random_circuits_15\circuit_81.qpy
+
+电路 82: circuit_82
+  原始路径: circuit.circuit_82
+  量子比特: 4, 经典比特: 0
+  深度: 81, 操作数: 180
+  操作统计: OrderedDict([('rz', 92), ('sx', 48), ('cx', 40)])
+  文件: random_circuits\random_circuits_15\circuit_82.qasm
+        random_circuits\random_circuits_15\circuit_82.qpy
+
+电路 83: circuit_83
+  原始路径: circuit.circuit_83
+  量子比特: 4, 经典比特: 0
+  深度: 77, 操作数: 174
+  操作统计: OrderedDict([('rz', 86), ('sx', 46), ('cx', 39), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_83.qasm
+        random_circuits\random_circuits_15\circuit_83.qpy
+
+电路 84: circuit_84
+  原始路径: circuit.circuit_84
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 182
+  操作统计: OrderedDict([('rz', 89), ('sx', 52), ('cx', 37), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_84.qasm
+        random_circuits\random_circuits_15\circuit_84.qpy
+
+电路 85: circuit_85
+  原始路径: circuit.circuit_85
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 183
+  操作统计: OrderedDict([('rz', 93), ('sx', 45), ('cx', 41), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_85.qasm
+        random_circuits\random_circuits_15\circuit_85.qpy
+
+电路 86: circuit_86
+  原始路径: circuit.circuit_86
+  量子比特: 4, 经典比特: 0
+  深度: 99, 操作数: 196
+  操作统计: OrderedDict([('rz', 97), ('sx', 58), ('cx', 38), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_86.qasm
+        random_circuits\random_circuits_15\circuit_86.qpy
+
+电路 87: circuit_87
+  原始路径: circuit.circuit_87
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 144
+  操作统计: OrderedDict([('rz', 70), ('cx', 37), ('sx', 32), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_87.qasm
+        random_circuits\random_circuits_15\circuit_87.qpy
+
+电路 88: circuit_88
+  原始路径: circuit.circuit_88
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 154
+  操作统计: OrderedDict([('rz', 75), ('sx', 43), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_88.qasm
+        random_circuits\random_circuits_15\circuit_88.qpy
+
+电路 89: circuit_89
+  原始路径: circuit.circuit_89
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 166
+  操作统计: OrderedDict([('rz', 82), ('sx', 51), ('cx', 33)])
+  文件: random_circuits\random_circuits_15\circuit_89.qasm
+        random_circuits\random_circuits_15\circuit_89.qpy
+
+电路 90: circuit_90
+  原始路径: circuit.circuit_90
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 203
+  操作统计: OrderedDict([('rz', 100), ('sx', 59), ('cx', 42), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_90.qasm
+        random_circuits\random_circuits_15\circuit_90.qpy
+
+电路 91: circuit_91
+  原始路径: circuit.circuit_91
+  量子比特: 4, 经典比特: 0
+  深度: 76, 操作数: 169
+  操作统计: OrderedDict([('rz', 83), ('sx', 43), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_91.qasm
+        random_circuits\random_circuits_15\circuit_91.qpy
+
+电路 92: circuit_92
+  原始路径: circuit.circuit_92
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 184
+  操作统计: OrderedDict([('rz', 91), ('sx', 48), ('cx', 41), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_92.qasm
+        random_circuits\random_circuits_15\circuit_92.qpy
+
+电路 93: circuit_93
+  原始路径: circuit.circuit_93
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 170
+  操作统计: OrderedDict([('rz', 86), ('sx', 49), ('cx', 35)])
+  文件: random_circuits\random_circuits_15\circuit_93.qasm
+        random_circuits\random_circuits_15\circuit_93.qpy
+
+电路 94: circuit_94
+  原始路径: circuit.circuit_94
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 175
+  操作统计: OrderedDict([('rz', 86), ('sx', 50), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_94.qasm
+        random_circuits\random_circuits_15\circuit_94.qpy
+
+电路 95: circuit_95
+  原始路径: circuit.circuit_95
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 154
+  操作统计: OrderedDict([('rz', 76), ('sx', 39), ('cx', 36), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_95.qasm
+        random_circuits\random_circuits_15\circuit_95.qpy
+
+电路 96: circuit_96
+  原始路径: circuit.circuit_96
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 164
+  操作统计: OrderedDict([('rz', 78), ('sx', 46), ('cx', 38), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_96.qasm
+        random_circuits\random_circuits_15\circuit_96.qpy
+
+电路 97: circuit_97
+  原始路径: circuit.circuit_97
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 187
+  操作统计: OrderedDict([('rz', 92), ('sx', 48), ('cx', 44), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_97.qasm
+        random_circuits\random_circuits_15\circuit_97.qpy
+
+电路 98: circuit_98
+  原始路径: circuit.circuit_98
+  量子比特: 4, 经典比特: 0
+  深度: 101, 操作数: 193
+  操作统计: OrderedDict([('rz', 96), ('sx', 54), ('cx', 40), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_98.qasm
+        random_circuits\random_circuits_15\circuit_98.qpy
+
+电路 99: circuit_99
+  原始路径: circuit.circuit_99
+  量子比特: 4, 经典比特: 0
+  深度: 95, 操作数: 191
+  操作统计: OrderedDict([('rz', 91), ('sx', 56), ('cx', 38), ('x', 6)])
+  文件: random_circuits\random_circuits_15\circuit_99.qasm
+        random_circuits\random_circuits_15\circuit_99.qpy
+
+电路 100: circuit_100
+  原始路径: circuit.circuit_100
+  量子比特: 4, 经典比特: 0
+  深度: 84, 操作数: 157
+  操作统计: OrderedDict([('rz', 79), ('cx', 37), ('sx', 37), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_100.qasm
+        random_circuits\random_circuits_15\circuit_100.qpy
+
+电路 101: circuit_101
+  原始路径: circuit.circuit_101
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 168
+  操作统计: OrderedDict([('rz', 84), ('sx', 50), ('cx', 33), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_101.qasm
+        random_circuits\random_circuits_15\circuit_101.qpy
+
+电路 102: circuit_102
+  原始路径: circuit.circuit_102
+  量子比特: 4, 经典比特: 0
+  深度: 98, 操作数: 206
+  操作统计: OrderedDict([('rz', 99), ('sx', 57), ('cx', 44), ('x', 6)])
+  文件: random_circuits\random_circuits_15\circuit_102.qasm
+        random_circuits\random_circuits_15\circuit_102.qpy
+
+电路 103: circuit_103
+  原始路径: circuit.circuit_103
+  量子比特: 4, 经典比特: 0
+  深度: 77, 操作数: 145
+  操作统计: OrderedDict([('rz', 73), ('sx', 38), ('cx', 34)])
+  文件: random_circuits\random_circuits_15\circuit_103.qasm
+        random_circuits\random_circuits_15\circuit_103.qpy
+
+电路 104: circuit_104
+  原始路径: circuit.circuit_104
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 174
+  操作统计: OrderedDict([('rz', 85), ('sx', 46), ('cx', 40), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_104.qasm
+        random_circuits\random_circuits_15\circuit_104.qpy
+
+电路 105: circuit_105
+  原始路径: circuit.circuit_105
+  量子比特: 4, 经典比特: 0
+  深度: 81, 操作数: 167
+  操作统计: OrderedDict([('rz', 85), ('sx', 41), ('cx', 40), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_105.qasm
+        random_circuits\random_circuits_15\circuit_105.qpy
+
+电路 106: circuit_106
+  原始路径: circuit.circuit_106
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 169
+  操作统计: OrderedDict([('rz', 79), ('sx', 46), ('cx', 39), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_106.qasm
+        random_circuits\random_circuits_15\circuit_106.qpy
+
+电路 107: circuit_107
+  原始路径: circuit.circuit_107
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 178
+  操作统计: OrderedDict([('rz', 88), ('sx', 47), ('cx', 40), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_107.qasm
+        random_circuits\random_circuits_15\circuit_107.qpy
+
+电路 108: circuit_108
+  原始路径: circuit.circuit_108
+  量子比特: 4, 经典比特: 0
+  深度: 81, 操作数: 162
+  操作统计: OrderedDict([('rz', 83), ('sx', 42), ('cx', 36), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_108.qasm
+        random_circuits\random_circuits_15\circuit_108.qpy
+
+电路 109: circuit_109
+  原始路径: circuit.circuit_109
+  量子比特: 4, 经典比特: 0
+  深度: 77, 操作数: 172
+  操作统计: OrderedDict([('rz', 86), ('sx', 45), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_109.qasm
+        random_circuits\random_circuits_15\circuit_109.qpy
+
+电路 110: circuit_110
+  原始路径: circuit.circuit_110
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 181
+  操作统计: OrderedDict([('rz', 92), ('sx', 50), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_110.qasm
+        random_circuits\random_circuits_15\circuit_110.qpy
+
+电路 111: circuit_111
+  原始路径: circuit.circuit_111
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 201
+  操作统计: OrderedDict([('rz', 104), ('sx', 53), ('cx', 42), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_111.qasm
+        random_circuits\random_circuits_15\circuit_111.qpy
+
+电路 112: circuit_112
+  原始路径: circuit.circuit_112
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 171
+  操作统计: OrderedDict([('rz', 80), ('sx', 45), ('cx', 43), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_112.qasm
+        random_circuits\random_circuits_15\circuit_112.qpy
+
+电路 113: circuit_113
+  原始路径: circuit.circuit_113
+  量子比特: 4, 经典比特: 0
+  深度: 98, 操作数: 208
+  操作统计: OrderedDict([('rz', 101), ('sx', 62), ('cx', 41), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_113.qasm
+        random_circuits\random_circuits_15\circuit_113.qpy
+
+电路 114: circuit_114
+  原始路径: circuit.circuit_114
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 173
+  操作统计: OrderedDict([('rz', 88), ('sx', 50), ('cx', 33), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_114.qasm
+        random_circuits\random_circuits_15\circuit_114.qpy
+
+电路 115: circuit_115
+  原始路径: circuit.circuit_115
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 172
+  操作统计: OrderedDict([('rz', 86), ('sx', 47), ('cx', 36), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_115.qasm
+        random_circuits\random_circuits_15\circuit_115.qpy
+
+电路 116: circuit_116
+  原始路径: circuit.circuit_116
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 184
+  操作统计: OrderedDict([('rz', 93), ('sx', 45), ('cx', 41), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_116.qasm
+        random_circuits\random_circuits_15\circuit_116.qpy
+
+电路 117: circuit_117
+  原始路径: circuit.circuit_117
+  量子比特: 4, 经典比特: 0
+  深度: 74, 操作数: 168
+  操作统计: OrderedDict([('rz', 85), ('sx', 44), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_117.qasm
+        random_circuits\random_circuits_15\circuit_117.qpy
+
+电路 118: circuit_118
+  原始路径: circuit.circuit_118
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 180
+  操作统计: OrderedDict([('rz', 98), ('sx', 43), ('cx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_118.qasm
+        random_circuits\random_circuits_15\circuit_118.qpy
+
+电路 119: circuit_119
+  原始路径: circuit.circuit_119
+  量子比特: 4, 经典比特: 0
+  深度: 95, 操作数: 178
+  操作统计: OrderedDict([('rz', 93), ('sx', 45), ('cx', 37), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_119.qasm
+        random_circuits\random_circuits_15\circuit_119.qpy
+
+电路 120: circuit_120
+  原始路径: circuit.circuit_120
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 172
+  操作统计: OrderedDict([('rz', 86), ('sx', 45), ('cx', 40), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_120.qasm
+        random_circuits\random_circuits_15\circuit_120.qpy
+
+电路 121: circuit_121
+  原始路径: circuit.circuit_121
+  量子比特: 4, 经典比特: 0
+  深度: 97, 操作数: 210
+  操作统计: OrderedDict([('rz', 102), ('sx', 63), ('cx', 43), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_121.qasm
+        random_circuits\random_circuits_15\circuit_121.qpy
+
+电路 122: circuit_122
+  原始路径: circuit.circuit_122
+  量子比特: 4, 经典比特: 0
+  深度: 94, 操作数: 197
+  操作统计: OrderedDict([('rz', 97), ('sx', 59), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_122.qasm
+        random_circuits\random_circuits_15\circuit_122.qpy
+
+电路 123: circuit_123
+  原始路径: circuit.circuit_123
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 177
+  操作统计: OrderedDict([('rz', 93), ('sx', 49), ('cx', 35)])
+  文件: random_circuits\random_circuits_15\circuit_123.qasm
+        random_circuits\random_circuits_15\circuit_123.qpy
+
+电路 124: circuit_124
+  原始路径: circuit.circuit_124
+  量子比特: 4, 经典比特: 0
+  深度: 97, 操作数: 201
+  操作统计: OrderedDict([('rz', 95), ('sx', 64), ('cx', 39), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_124.qasm
+        random_circuits\random_circuits_15\circuit_124.qpy
+
+电路 125: circuit_125
+  原始路径: circuit.circuit_125
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 174
+  操作统计: OrderedDict([('rz', 85), ('sx', 43), ('cx', 43), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_125.qasm
+        random_circuits\random_circuits_15\circuit_125.qpy
+
+电路 126: circuit_126
+  原始路径: circuit.circuit_126
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 188
+  操作统计: OrderedDict([('rz', 96), ('sx', 49), ('cx', 42), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_126.qasm
+        random_circuits\random_circuits_15\circuit_126.qpy
+
+电路 127: circuit_127
+  原始路径: circuit.circuit_127
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 190
+  操作统计: OrderedDict([('rz', 98), ('sx', 54), ('cx', 36), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_127.qasm
+        random_circuits\random_circuits_15\circuit_127.qpy
+
+电路 128: circuit_128
+  原始路径: circuit.circuit_128
+  量子比特: 4, 经典比特: 0
+  深度: 81, 操作数: 166
+  操作统计: OrderedDict([('rz', 84), ('sx', 46), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_128.qasm
+        random_circuits\random_circuits_15\circuit_128.qpy
+
+电路 129: circuit_129
+  原始路径: circuit.circuit_129
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 169
+  操作统计: OrderedDict([('rz', 84), ('sx', 46), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_129.qasm
+        random_circuits\random_circuits_15\circuit_129.qpy
+
+电路 130: circuit_130
+  原始路径: circuit.circuit_130
+  量子比特: 4, 经典比特: 0
+  深度: 103, 操作数: 186
+  操作统计: OrderedDict([('rz', 100), ('sx', 43), ('cx', 42), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_130.qasm
+        random_circuits\random_circuits_15\circuit_130.qpy
+
+电路 131: circuit_131
+  原始路径: circuit.circuit_131
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 160
+  操作统计: OrderedDict([('rz', 82), ('sx', 40), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_131.qasm
+        random_circuits\random_circuits_15\circuit_131.qpy
+
+电路 132: circuit_132
+  原始路径: circuit.circuit_132
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 186
+  操作统计: OrderedDict([('rz', 92), ('sx', 46), ('cx', 45), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_132.qasm
+        random_circuits\random_circuits_15\circuit_132.qpy
+
+电路 133: circuit_133
+  原始路径: circuit.circuit_133
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 186
+  操作统计: OrderedDict([('rz', 93), ('sx', 55), ('cx', 38)])
+  文件: random_circuits\random_circuits_15\circuit_133.qasm
+        random_circuits\random_circuits_15\circuit_133.qpy
+
+电路 134: circuit_134
+  原始路径: circuit.circuit_134
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 172
+  操作统计: OrderedDict([('rz', 87), ('sx', 47), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_134.qasm
+        random_circuits\random_circuits_15\circuit_134.qpy
+
+电路 135: circuit_135
+  原始路径: circuit.circuit_135
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 175
+  操作统计: OrderedDict([('rz', 86), ('sx', 45), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_135.qasm
+        random_circuits\random_circuits_15\circuit_135.qpy
+
+电路 136: circuit_136
+  原始路径: circuit.circuit_136
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 189
+  操作统计: OrderedDict([('rz', 95), ('sx', 51), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_136.qasm
+        random_circuits\random_circuits_15\circuit_136.qpy
+
+电路 137: circuit_137
+  原始路径: circuit.circuit_137
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 158
+  操作统计: OrderedDict([('rz', 77), ('sx', 44), ('cx', 35), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_137.qasm
+        random_circuits\random_circuits_15\circuit_137.qpy
+
+电路 138: circuit_138
+  原始路径: circuit.circuit_138
+  量子比特: 4, 经典比特: 0
+  深度: 103, 操作数: 218
+  操作统计: OrderedDict([('rz', 106), ('sx', 67), ('cx', 42), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_138.qasm
+        random_circuits\random_circuits_15\circuit_138.qpy
+
+电路 139: circuit_139
+  原始路径: circuit.circuit_139
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 172
+  操作统计: OrderedDict([('rz', 84), ('sx', 45), ('cx', 40), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_139.qasm
+        random_circuits\random_circuits_15\circuit_139.qpy
+
+电路 140: circuit_140
+  原始路径: circuit.circuit_140
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 185
+  操作统计: OrderedDict([('rz', 92), ('sx', 49), ('cx', 42), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_140.qasm
+        random_circuits\random_circuits_15\circuit_140.qpy
+
+电路 141: circuit_141
+  原始路径: circuit.circuit_141
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 176
+  操作统计: OrderedDict([('rz', 87), ('sx', 45), ('cx', 41), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_141.qasm
+        random_circuits\random_circuits_15\circuit_141.qpy
+
+电路 142: circuit_142
+  原始路径: circuit.circuit_142
+  量子比特: 4, 经典比特: 0
+  深度: 84, 操作数: 179
+  操作统计: OrderedDict([('rz', 87), ('sx', 53), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_142.qasm
+        random_circuits\random_circuits_15\circuit_142.qpy
+
+电路 143: circuit_143
+  原始路径: circuit.circuit_143
+  量子比特: 4, 经典比特: 0
+  深度: 100, 操作数: 157
+  操作统计: OrderedDict([('rz', 75), ('sx', 44), ('cx', 35), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_143.qasm
+        random_circuits\random_circuits_15\circuit_143.qpy
+
+电路 144: circuit_144
+  原始路径: circuit.circuit_144
+  量子比特: 4, 经典比特: 0
+  深度: 104, 操作数: 187
+  操作统计: OrderedDict([('rz', 92), ('sx', 56), ('cx', 38), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_144.qasm
+        random_circuits\random_circuits_15\circuit_144.qpy
+
+电路 145: circuit_145
+  原始路径: circuit.circuit_145
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 164
+  操作统计: OrderedDict([('rz', 81), ('sx', 46), ('cx', 36), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_145.qasm
+        random_circuits\random_circuits_15\circuit_145.qpy
+
+电路 146: circuit_146
+  原始路径: circuit.circuit_146
+  量子比特: 4, 经典比特: 0
+  深度: 94, 操作数: 193
+  操作统计: OrderedDict([('rz', 93), ('sx', 59), ('cx', 36), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_146.qasm
+        random_circuits\random_circuits_15\circuit_146.qpy
+
+电路 147: circuit_147
+  原始路径: circuit.circuit_147
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 183
+  操作统计: OrderedDict([('rz', 94), ('sx', 45), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_147.qasm
+        random_circuits\random_circuits_15\circuit_147.qpy
+
+电路 148: circuit_148
+  原始路径: circuit.circuit_148
+  量子比特: 4, 经典比特: 0
+  深度: 101, 操作数: 182
+  操作统计: OrderedDict([('rz', 91), ('sx', 55), ('cx', 33), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_148.qasm
+        random_circuits\random_circuits_15\circuit_148.qpy
+
+电路 149: circuit_149
+  原始路径: circuit.circuit_149
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 181
+  操作统计: OrderedDict([('rz', 86), ('sx', 49), ('cx', 42), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_149.qasm
+        random_circuits\random_circuits_15\circuit_149.qpy
+
+电路 150: circuit_150
+  原始路径: circuit.circuit_150
+  量子比特: 4, 经典比特: 0
+  深度: 91, 操作数: 187
+  操作统计: OrderedDict([('rz', 93), ('cx', 48), ('sx', 44), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_150.qasm
+        random_circuits\random_circuits_15\circuit_150.qpy
+
+电路 151: circuit_151
+  原始路径: circuit.circuit_151
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 163
+  操作统计: OrderedDict([('rz', 81), ('cx', 41), ('sx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_151.qasm
+        random_circuits\random_circuits_15\circuit_151.qpy
+
+电路 152: circuit_152
+  原始路径: circuit.circuit_152
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 173
+  操作统计: OrderedDict([('rz', 86), ('sx', 48), ('cx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_152.qasm
+        random_circuits\random_circuits_15\circuit_152.qpy
+
+电路 153: circuit_153
+  原始路径: circuit.circuit_153
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 198
+  操作统计: OrderedDict([('rz', 98), ('sx', 53), ('cx', 45), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_153.qasm
+        random_circuits\random_circuits_15\circuit_153.qpy
+
+电路 154: circuit_154
+  原始路径: circuit.circuit_154
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 203
+  操作统计: OrderedDict([('rz', 101), ('sx', 60), ('cx', 39), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_154.qasm
+        random_circuits\random_circuits_15\circuit_154.qpy
+
+电路 155: circuit_155
+  原始路径: circuit.circuit_155
+  量子比特: 4, 经典比特: 0
+  深度: 80, 操作数: 162
+  操作统计: OrderedDict([('rz', 85), ('sx', 39), ('cx', 38)])
+  文件: random_circuits\random_circuits_15\circuit_155.qasm
+        random_circuits\random_circuits_15\circuit_155.qpy
+
+电路 156: circuit_156
+  原始路径: circuit.circuit_156
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 216
+  操作统计: OrderedDict([('rz', 111), ('sx', 62), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_156.qasm
+        random_circuits\random_circuits_15\circuit_156.qpy
+
+电路 157: circuit_157
+  原始路径: circuit.circuit_157
+  量子比特: 4, 经典比特: 0
+  深度: 100, 操作数: 191
+  操作统计: OrderedDict([('rz', 95), ('sx', 52), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_157.qasm
+        random_circuits\random_circuits_15\circuit_157.qpy
+
+电路 158: circuit_158
+  原始路径: circuit.circuit_158
+  量子比特: 4, 经典比特: 0
+  深度: 61, 操作数: 117
+  操作统计: OrderedDict([('rz', 58), ('cx', 33), ('sx', 25), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_158.qasm
+        random_circuits\random_circuits_15\circuit_158.qpy
+
+电路 159: circuit_159
+  原始路径: circuit.circuit_159
+  量子比特: 4, 经典比特: 0
+  深度: 98, 操作数: 206
+  操作统计: OrderedDict([('rz', 103), ('sx', 58), ('cx', 42), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_159.qasm
+        random_circuits\random_circuits_15\circuit_159.qpy
+
+电路 160: circuit_160
+  原始路径: circuit.circuit_160
+  量子比特: 4, 经典比特: 0
+  深度: 71, 操作数: 150
+  操作统计: OrderedDict([('rz', 75), ('cx', 40), ('sx', 33), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_160.qasm
+        random_circuits\random_circuits_15\circuit_160.qpy
+
+电路 161: circuit_161
+  原始路径: circuit.circuit_161
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 154
+  操作统计: OrderedDict([('rz', 77), ('sx', 39), ('cx', 34), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_161.qasm
+        random_circuits\random_circuits_15\circuit_161.qpy
+
+电路 162: circuit_162
+  原始路径: circuit.circuit_162
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 140
+  操作统计: OrderedDict([('rz', 68), ('sx', 39), ('cx', 31), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_162.qasm
+        random_circuits\random_circuits_15\circuit_162.qpy
+
+电路 163: circuit_163
+  原始路径: circuit.circuit_163
+  量子比特: 4, 经典比特: 0
+  深度: 97, 操作数: 204
+  操作统计: OrderedDict([('rz', 105), ('sx', 58), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_163.qasm
+        random_circuits\random_circuits_15\circuit_163.qpy
+
+电路 164: circuit_164
+  原始路径: circuit.circuit_164
+  量子比特: 4, 经典比特: 0
+  深度: 87, 操作数: 183
+  操作统计: OrderedDict([('rz', 94), ('sx', 50), ('cx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_164.qasm
+        random_circuits\random_circuits_15\circuit_164.qpy
+
+电路 165: circuit_165
+  原始路径: circuit.circuit_165
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 152
+  操作统计: OrderedDict([('rz', 72), ('sx', 39), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_165.qasm
+        random_circuits\random_circuits_15\circuit_165.qpy
+
+电路 166: circuit_166
+  原始路径: circuit.circuit_166
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 168
+  操作统计: OrderedDict([('rz', 87), ('cx', 40), ('sx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_166.qasm
+        random_circuits\random_circuits_15\circuit_166.qpy
+
+电路 167: circuit_167
+  原始路径: circuit.circuit_167
+  量子比特: 4, 经典比特: 0
+  深度: 92, 操作数: 172
+  操作统计: OrderedDict([('rz', 90), ('sx', 45), ('cx', 37)])
+  文件: random_circuits\random_circuits_15\circuit_167.qasm
+        random_circuits\random_circuits_15\circuit_167.qpy
+
+电路 168: circuit_168
+  原始路径: circuit.circuit_168
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 179
+  操作统计: OrderedDict([('rz', 91), ('sx', 43), ('cx', 43), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_168.qasm
+        random_circuits\random_circuits_15\circuit_168.qpy
+
+电路 169: circuit_169
+  原始路径: circuit.circuit_169
+  量子比特: 4, 经典比特: 0
+  深度: 72, 操作数: 165
+  操作统计: OrderedDict([('rz', 85), ('cx', 39), ('sx', 37), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_169.qasm
+        random_circuits\random_circuits_15\circuit_169.qpy
+
+电路 170: circuit_170
+  原始路径: circuit.circuit_170
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 174
+  操作统计: OrderedDict([('rz', 89), ('sx', 46), ('cx', 37), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_170.qasm
+        random_circuits\random_circuits_15\circuit_170.qpy
+
+电路 171: circuit_171
+  原始路径: circuit.circuit_171
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 180
+  操作统计: OrderedDict([('rz', 93), ('sx', 49), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_171.qasm
+        random_circuits\random_circuits_15\circuit_171.qpy
+
+电路 172: circuit_172
+  原始路径: circuit.circuit_172
+  量子比特: 4, 经典比特: 0
+  深度: 103, 操作数: 207
+  操作统计: OrderedDict([('rz', 103), ('sx', 63), ('cx', 39), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_172.qasm
+        random_circuits\random_circuits_15\circuit_172.qpy
+
+电路 173: circuit_173
+  原始路径: circuit.circuit_173
+  量子比特: 4, 经典比特: 0
+  深度: 101, 操作数: 171
+  操作统计: OrderedDict([('rz', 85), ('sx', 51), ('cx', 33), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_173.qasm
+        random_circuits\random_circuits_15\circuit_173.qpy
+
+电路 174: circuit_174
+  原始路径: circuit.circuit_174
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 169
+  操作统计: OrderedDict([('rz', 85), ('sx', 47), ('cx', 36), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_174.qasm
+        random_circuits\random_circuits_15\circuit_174.qpy
+
+电路 175: circuit_175
+  原始路径: circuit.circuit_175
+  量子比特: 4, 经典比特: 0
+  深度: 75, 操作数: 137
+  操作统计: OrderedDict([('rz', 71), ('cx', 34), ('sx', 31), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_175.qasm
+        random_circuits\random_circuits_15\circuit_175.qpy
+
+电路 176: circuit_176
+  原始路径: circuit.circuit_176
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 159
+  操作统计: OrderedDict([('rz', 79), ('sx', 45), ('cx', 34), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_176.qasm
+        random_circuits\random_circuits_15\circuit_176.qpy
+
+电路 177: circuit_177
+  原始路径: circuit.circuit_177
+  量子比特: 4, 经典比特: 0
+  深度: 85, 操作数: 187
+  操作统计: OrderedDict([('rz', 95), ('sx', 51), ('cx', 38), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_177.qasm
+        random_circuits\random_circuits_15\circuit_177.qpy
+
+电路 178: circuit_178
+  原始路径: circuit.circuit_178
+  量子比特: 4, 经典比特: 0
+  深度: 77, 操作数: 165
+  操作统计: OrderedDict([('rz', 85), ('sx', 43), ('cx', 37)])
+  文件: random_circuits\random_circuits_15\circuit_178.qasm
+        random_circuits\random_circuits_15\circuit_178.qpy
+
+电路 179: circuit_179
+  原始路径: circuit.circuit_179
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 203
+  操作统计: OrderedDict([('rz', 100), ('sx', 59), ('cx', 43), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_179.qasm
+        random_circuits\random_circuits_15\circuit_179.qpy
+
+电路 180: circuit_180
+  原始路径: circuit.circuit_180
+  量子比特: 4, 经典比特: 0
+  深度: 81, 操作数: 147
+  操作统计: OrderedDict([('rz', 73), ('sx', 37), ('cx', 33), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_180.qasm
+        random_circuits\random_circuits_15\circuit_180.qpy
+
+电路 181: circuit_181
+  原始路径: circuit.circuit_181
+  量子比特: 4, 经典比特: 0
+  深度: 79, 操作数: 173
+  操作统计: OrderedDict([('rz', 90), ('sx', 44), ('cx', 39)])
+  文件: random_circuits\random_circuits_15\circuit_181.qasm
+        random_circuits\random_circuits_15\circuit_181.qpy
+
+电路 182: circuit_182
+  原始路径: circuit.circuit_182
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 149
+  操作统计: OrderedDict([('rz', 71), ('sx', 38), ('cx', 38), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_182.qasm
+        random_circuits\random_circuits_15\circuit_182.qpy
+
+电路 183: circuit_183
+  原始路径: circuit.circuit_183
+  量子比特: 4, 经典比特: 0
+  深度: 88, 操作数: 195
+  操作统计: OrderedDict([('rz', 99), ('sx', 56), ('cx', 39), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_183.qasm
+        random_circuits\random_circuits_15\circuit_183.qpy
+
+电路 184: circuit_184
+  原始路径: circuit.circuit_184
+  量子比特: 4, 经典比特: 0
+  深度: 89, 操作数: 195
+  操作统计: OrderedDict([('rz', 98), ('sx', 59), ('cx', 37), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_184.qasm
+        random_circuits\random_circuits_15\circuit_184.qpy
+
+电路 185: circuit_185
+  原始路径: circuit.circuit_185
+  量子比特: 4, 经典比特: 0
+  深度: 93, 操作数: 156
+  操作统计: OrderedDict([('rz', 77), ('sx', 43), ('cx', 35), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_185.qasm
+        random_circuits\random_circuits_15\circuit_185.qpy
+
+电路 186: circuit_186
+  原始路径: circuit.circuit_186
+  量子比特: 4, 经典比特: 0
+  深度: 80, 操作数: 157
+  操作统计: OrderedDict([('rz', 82), ('cx', 38), ('sx', 37)])
+  文件: random_circuits\random_circuits_15\circuit_186.qasm
+        random_circuits\random_circuits_15\circuit_186.qpy
+
+电路 187: circuit_187
+  原始路径: circuit.circuit_187
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 152
+  操作统计: OrderedDict([('rz', 75), ('cx', 37), ('sx', 35), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_187.qasm
+        random_circuits\random_circuits_15\circuit_187.qpy
+
+电路 188: circuit_188
+  原始路径: circuit.circuit_188
+  量子比特: 4, 经典比特: 0
+  深度: 101, 操作数: 199
+  操作统计: OrderedDict([('rz', 95), ('sx', 56), ('cx', 44), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_188.qasm
+        random_circuits\random_circuits_15\circuit_188.qpy
+
+电路 189: circuit_189
+  原始路径: circuit.circuit_189
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 183
+  操作统计: OrderedDict([('rz', 96), ('sx', 47), ('cx', 40)])
+  文件: random_circuits\random_circuits_15\circuit_189.qasm
+        random_circuits\random_circuits_15\circuit_189.qpy
+
+电路 190: circuit_190
+  原始路径: circuit.circuit_190
+  量子比特: 4, 经典比特: 0
+  深度: 82, 操作数: 180
+  操作统计: OrderedDict([('rz', 88), ('sx', 45), ('cx', 43), ('x', 4)])
+  文件: random_circuits\random_circuits_15\circuit_190.qasm
+        random_circuits\random_circuits_15\circuit_190.qpy
+
+电路 191: circuit_191
+  原始路径: circuit.circuit_191
+  量子比特: 4, 经典比特: 0
+  深度: 101, 操作数: 177
+  操作统计: OrderedDict([('rz', 84), ('sx', 51), ('cx', 37), ('x', 5)])
+  文件: random_circuits\random_circuits_15\circuit_191.qasm
+        random_circuits\random_circuits_15\circuit_191.qpy
+
+电路 192: circuit_192
+  原始路径: circuit.circuit_192
+  量子比特: 4, 经典比特: 0
+  深度: 84, 操作数: 177
+  操作统计: OrderedDict([('rz', 88), ('sx', 47), ('cx', 41), ('x', 1)])
+  文件: random_circuits\random_circuits_15\circuit_192.qasm
+        random_circuits\random_circuits_15\circuit_192.qpy
+
+电路 193: circuit_193
+  原始路径: circuit.circuit_193
+  量子比特: 4, 经典比特: 0
+  深度: 76, 操作数: 174
+  操作统计: OrderedDict([('rz', 86), ('sx', 46), ('cx', 39), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_193.qasm
+        random_circuits\random_circuits_15\circuit_193.qpy
+
+电路 194: circuit_194
+  原始路径: circuit.circuit_194
+  量子比特: 4, 经典比特: 0
+  深度: 86, 操作数: 174
+  操作统计: OrderedDict([('rz', 90), ('sx', 41), ('cx', 41), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_194.qasm
+        random_circuits\random_circuits_15\circuit_194.qpy
+
+电路 195: circuit_195
+  原始路径: circuit.circuit_195
+  量子比特: 4, 经典比特: 0
+  深度: 107, 操作数: 200
+  操作统计: OrderedDict([('rz', 102), ('sx', 51), ('cx', 45), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_195.qasm
+        random_circuits\random_circuits_15\circuit_195.qpy
+
+电路 196: circuit_196
+  原始路径: circuit.circuit_196
+  量子比特: 4, 经典比特: 0
+  深度: 96, 操作数: 197
+  操作统计: OrderedDict([('rz', 102), ('sx', 49), ('cx', 44), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_196.qasm
+        random_circuits\random_circuits_15\circuit_196.qpy
+
+电路 197: circuit_197
+  原始路径: circuit.circuit_197
+  量子比特: 4, 经典比特: 0
+  深度: 83, 操作数: 150
+  操作统计: OrderedDict([('rz', 78), ('cx', 36), ('sx', 34), ('x', 2)])
+  文件: random_circuits\random_circuits_15\circuit_197.qasm
+        random_circuits\random_circuits_15\circuit_197.qpy
+
+电路 198: circuit_198
+  原始路径: circuit.circuit_198
+  量子比特: 4, 经典比特: 0
+  深度: 100, 操作数: 193
+  操作统计: OrderedDict([('rz', 97), ('sx', 52), ('cx', 41), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_198.qasm
+        random_circuits\random_circuits_15\circuit_198.qpy
+
+电路 199: circuit_199
+  原始路径: circuit.circuit_199
+  量子比特: 4, 经典比特: 0
+  深度: 90, 操作数: 171
+  操作统计: OrderedDict([('rz', 85), ('sx', 49), ('cx', 34), ('x', 3)])
+  文件: random_circuits\random_circuits_15\circuit_199.qasm
+        random_circuits\random_circuits_15\circuit_199.qpy
+

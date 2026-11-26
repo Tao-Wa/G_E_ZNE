@@ -1,0 +1,6 @@
+cir_type,variant,formula,fit_points,params,n_circuits,mean_abs_err,median_abs_err,std_abs_err,p90_abs_err,p99_abs_err,max_abs_err,n_rejected_gt_1.2
+ising_trotter,A,a*exp(c*x+b*x^2),5,3,3600,0.02861,0.00364063,0.0789475,0.0731775,0.392111,1.15273,34
+ising_trotter,B,a*exp(c*x+b*x^2)+d,5,4,3600,0.0384538,0.00294308,0.113913,0.0933953,0.660996,1.19931,125
+ising_trotter,C,a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94],5,5,3600,0.0156133,0.00237208,0.0326505,0.0495135,0.16266,0.377823,0
+ising_trotter,D,(a+b*x)*exp(c*x)  [Eq.94 with c2=0],5,3,3600,0.0168995,0.00312431,0.0453719,0.043785,0.168034,1.05249,2
+ising_trotter,E,a*exp(c*x+b*x^2)+d*exp(c*x)  [Eq.94 with e=0],5,4,3600,0.0200335,0.00441845,0.047511,0.0527986,0.195178,1.0632,3

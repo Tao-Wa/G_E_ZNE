@@ -1,0 +1,43 @@
+cir_type,entry,step,variant,formula,n_params,n_circuits,mean_abs_err,median_abs_err,std_abs_err,p90_abs_err,p99_abs_err,max_abs_err,n_rejected_gt_1.2,reject_rate,n_loocv_selected_poly_exp
+grover,1,1,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,1,0.00154999,0.00154999,0,0.00154999,0.00154999,0.00154999,0,0,0
+grover,1,1,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,1,0.00138423,0.00138423,0,0.00138423,0.00138423,0.00138423,0,0,1
+grover,1,1,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,1,0.0025432,0.0025432,0,0.0025432,0.0025432,0.0025432,0,0,1
+grover,1,1,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,1,0.00616432,0.00616432,0,0.00616432,0.00616432,0.00616432,0,0,1
+grover,1,1,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,1,0.00756597,0.00756597,0,0.00756597,0.00756597,0.00756597,,,
+grover,1,1,SHIPPED,unmodified zne.py model list (published baseline),,1,0.00291957,0.00291957,0,0.00291957,0.00291957,0.00291957,,,
+grover,1,1,NOISY,unmitigated,,1,0.147679,0.147679,0,0.147679,0.147679,0.147679,,,
+grover,2,2,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,1,0.0078784,0.0078784,0,0.0078784,0.0078784,0.0078784,0,0,0
+grover,2,2,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,1,0.00241127,0.00241127,0,0.00241127,0.00241127,0.00241127,0,0,1
+grover,2,2,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,1,0.0308102,0.0308102,0,0.0308102,0.0308102,0.0308102,0,0,1
+grover,2,2,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,1,0.0504326,0.0504326,0,0.0504326,0.0504326,0.0504326,0,0,1
+grover,2,2,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,1,0.0564646,0.0564646,0,0.0564646,0.0564646,0.0564646,,,
+grover,2,2,SHIPPED,unmodified zne.py model list (published baseline),,1,0.00282612,0.00282612,0,0.00282612,0.00282612,0.00282612,,,
+grover,2,2,NOISY,unmitigated,,1,0.466871,0.466871,0,0.466871,0.466871,0.466871,,,
+grover,3,3,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,1,0.056157,0.056157,0,0.056157,0.056157,0.056157,0,0,0
+grover,3,3,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,1,0.00863193,0.00863193,0,0.00863193,0.00863193,0.00863193,0,0,1
+grover,3,3,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,1,0.108291,0.108291,0,0.108291,0.108291,0.108291,0,0,1
+grover,3,3,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,1,0.117749,0.117749,0,0.117749,0.117749,0.117749,0,0,1
+grover,3,3,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,1,0.124723,0.124723,0,0.124723,0.124723,0.124723,,,
+grover,3,3,SHIPPED,unmodified zne.py model list (published baseline),,1,0.0138126,0.0138126,0,0.0138126,0.0138126,0.0138126,,,
+grover,3,3,NOISY,unmitigated,,1,0.591772,0.591772,0,0.591772,0.591772,0.591772,,,
+grover,4,4,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,1,0.0716656,0.0716656,0,0.0716656,0.0716656,0.0716656,0,0,0
+grover,4,4,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,1,0.023646,0.023646,0,0.023646,0.023646,0.023646,0,0,1
+grover,4,4,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,1,0.0758199,0.0758199,0,0.0758199,0.0758199,0.0758199,0,0,1
+grover,4,4,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,1,0.0678179,0.0678179,0,0.0678179,0.0678179,0.0678179,0,0,1
+grover,4,4,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,1,0.0705109,0.0705109,0,0.0705109,0.0705109,0.0705109,,,
+grover,4,4,SHIPPED,unmodified zne.py model list (published baseline),,1,0.0263892,0.0263892,0,0.0263892,0.0263892,0.0263892,,,
+grover,4,4,NOISY,unmitigated,,1,0.342672,0.342672,0,0.342672,0.342672,0.342672,,,
+grover,5,5,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,1,0.117502,0.117502,0,0.117502,0.117502,0.117502,0,0,0
+grover,5,5,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,1,0.135859,0.135859,0,0.135859,0.135859,0.135859,0,0,0
+grover,5,5,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,1,0.125236,0.125236,0,0.125236,0.125236,0.125236,0,0,1
+grover,5,5,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,1,0.130193,0.130193,0,0.130193,0.130193,0.130193,0,0,1
+grover,5,5,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,1,0.130705,0.130705,0,0.130705,0.130705,0.130705,,,
+grover,5,5,SHIPPED,unmodified zne.py model list (published baseline),,1,0.130704,0.130704,0,0.130704,0.130704,0.130704,,,
+grover,5,5,NOISY,unmitigated,,1,0.027709,0.027709,0,0.027709,0.027709,0.027709,,,
+grover,ALL,,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",3,5,0.0509506,0.056157,0.0428507,0.0991674,0.115668,0.117502,0,0,0
+grover,ALL,,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",4,5,0.0343864,0.00863193,0.0513552,0.0909735,0.13137,0.135859,0,0,4
+grover,ALL,,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,5,0.0685401,0.0758199,0.0461015,0.118458,0.124558,0.125236,0,0,5
+grover,ALL,,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",4,5,0.0744713,0.0678179,0.0453118,0.125215,0.129695,0.130193,0,0,5
+grover,ALL,,EXP,shipped 'exp' member (exp_extrapolation; _1 for grover),,5,0.0779938,0.0705109,0.0456981,0.128312,0.130465,0.130705,,,
+grover,ALL,,SHIPPED,unmodified zne.py model list (published baseline),,5,0.0353303,0.0138126,0.0484686,0.088978,0.126531,0.130704,,,
+grover,ALL,,NOISY,unmitigated,,5,0.315341,0.342672,0.205409,0.541812,0.586776,0.591772,,,

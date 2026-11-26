@@ -1,0 +1,5 @@
+cir_type,variant,formula,fit_points,params,n_circuits,mean_abs_err,median_abs_err,std_abs_err,p90_abs_err,p99_abs_err,max_abs_err,n_rejected_gt_1.2
+grover,A,"a*exp(c*x+b*x^2)  [Eq.99, G-gaussNoC]",5,3,5,0.0965174,0.0859834,0.0671537,0.174394,0.184941,0.186113,0
+grover,B,"a*exp(c*x+b*x^2)+d  [Eq.99, G-gaussOnly]",5,4,5,0.0369123,0.0197545,0.050841,0.0925148,0.13214,0.136543,0
+grover,C,"a*exp(c*x+b*x^2)+(d+e*x)*exp(c*x)  [Eq.94, not shipped for grover]",5,5,5,0.0685401,0.0758199,0.0461015,0.118458,0.124558,0.125236,0
+grover,D,"(a+b*x)*exp(c*x)+d  [Eq.99 with c2=0, G-noGauss]",5,4,5,0.0779931,0.0705094,0.045698,0.128311,0.130465,0.130704,0

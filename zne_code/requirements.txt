@@ -1,0 +1,46 @@
+# =============================================================================
+# Exact pins for the "Hybrid Gaussian-exponential ZNE for periodic circuits"
+# simulation code (folder: 高斯-指数混合模型整合/).
+#
+# WHY these versions -- read README_ENV.md for the full reasoning.
+# Short version: the code uses the pre-Qiskit-1.0 API surface:
+#   * `from qiskit import Aer`                                  (removed in Qiskit 1.0)
+#   * `from qiskit.providers.fake_provider import FakeLima, ...` (V1 backends, removed in Qiskit 2.0)
+#   * `from qiskit.circuit import qpy_serialization`             (renamed in Qiskit 1.0)
+#   * `backend.configuration()` / `backend.properties()`         (V1-only calls)
+# qiskit 0.46.3 is the LAST release of the pre-1.0 line and the only line where
+# all four of the above exist simultaneously.
+#
+# IMPORTANT: do NOT install `qiskit-ibm-runtime`. The code in this archive does
+# not import it, and every release of qiskit-ibm-runtime requires qiskit>=1.0,
+# so installing it would silently upgrade qiskit and break `from qiskit import Aer`.
+# =============================================================================
+
+# --- Quantum stack (behaviour-critical pins) ---
+qiskit==0.46.3
+qiskit-terra==0.46.3
+qiskit-aer==0.14.2
+
+# --- Numerics / plotting (pinned for reproducibility) ---
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.4
+pandas==2.2.3
+networkx==3.2.1
+
+# --- Misc runtime imports found in the code base ---
+tqdm==4.67.1
+
+# --- Qiskit visualisation extras (required by the plotting steps) ---
+# `qc.draw('mpl')` in run_circuit.py needs pylatexenc;
+# `plot_error_map` in Device_properties.py needs seaborn and the Graphviz binaries.
+pylatexenc==2.10
+seaborn==0.13.2
+graphviz==0.21
+# The Graphviz *binaries* (the `dot` executable) are NOT installable with pip.
+# Install them with:  conda install -n zne_qiskit -c conda-forge graphviz -y
+
+# --- Optional: ONLY needed by random_generator.py (it does `import torch` at
+#     module import time to call torch.manual_seed). Safe to skip if you never
+#     run the `random`-circuit generation step; all analysis steps work without it.
+torch==2.7.0
